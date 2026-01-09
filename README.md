@@ -163,15 +163,20 @@ MathModelHub/
 
 ## 🚀 快速开始
 
+> 🆕 **完全新手？** 查看 **[新手完整路线图](./BEGINNER_ROADMAP.md)** 获取从零开始的学习路径！
+
 ### 环境配置
 
 ```bash
 # 克隆项目
-git clone [your-repo-url]
+git clone https://github.com/Jaxon1216/MathModelHub.git
 cd MathModelHub
 
 # 安装依赖
 pip install -r requirements.txt
+
+# 或使用国内镜像（更快）
+pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 # 启动Jupyter
 jupyter notebook
@@ -193,6 +198,7 @@ from data_analysis.visualization import plot_heatmap
 ## 📖 文档导航
 
 ### 🎯 新手必读
+- **[🆕 新手完整路线图](./BEGINNER_ROADMAP.md)** - 从零开始到参加美赛（含时间表）⭐
 - **[快速开始指南](./QUICKSTART.md)** - 环境配置、快速上手
 - **[美赛完整指南](./docs/mcm_guide.md)** - 评审机制、选题策略、论文写作
 - **[团队协作指南](./docs/team_workflow.md)** - 详细分工、工具配置、协作流程
