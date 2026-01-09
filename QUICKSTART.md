@@ -23,6 +23,29 @@ python -c "import numpy, pandas, matplotlib; print('环境配置成功！')"
 
 ## 📚 快速使用
 
+### 使用论文模板
+
+**快速开始：查看 [`templates/README.md`](./templates/README.md)**
+
+#### LaTeX + Overleaf（推荐）⭐
+
+```
+1. 访问 https://www.overleaf.com 注册
+2. 创建新项目
+3. 上传 templates/latex/mcmthesis/mcmthesis.cls
+4. 参考 mcmthesis-demo.tex 开始写作
+```
+
+#### Word模板
+
+```
+打开 templates/word/MCM_Template.docx
+填写摘要页，开始写作
+```
+
+**详细教程**：`templates/README.md`（含快速开始、VSCode配置、常见问题等）  
+**命令速查**：`templates/LATEX_CHEATSHEET.md`
+
 ### 使用评价模型
 
 ```python

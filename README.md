@@ -20,8 +20,10 @@ MathModelHub/
 │   └── utils/                    # 通用工具函数
 │
 ├── templates/                    # 论文模板
-│   ├── latex/                    # LaTeX模板（MCM/ICM标准模板）
-│   └── word/                     # Word模板（含摘要页）
+│   ├── latex/mcmthesis/          # LaTeX模板（mcmthesis文档类）
+│   ├── word/                     # Word模板（含摘要页）
+│   ├── README.md                 # 一站式教程（含快速开始）⭐
+│   └── LATEX_CHEATSHEET.md       # LaTeX命令速查表
 │
 ├── past_problems/                # 历年真题及优秀论文
 │   ├── 2024/
@@ -198,7 +200,8 @@ from data_analysis.visualization import plot_heatmap
 ### 🔧 技术文档
 - **[算法使用手册](./docs/algorithms_reference.md)** - 美赛高频算法详解
 - **[历年真题分析](./past_problems/README.md)** - 2016-2024题目统计
-- **[论文模板说明](./templates/README.md)** - LaTeX/Word模板使用
+- **[论文模板教程](./templates/README.md)** - LaTeX/Word完整教程⭐
+- **[LaTeX速查表](./templates/LATEX_CHEATSHEET.md)** - 常用命令快速查询
 
 ### 📦 资源库
 - **[数据集说明](./datasets/README.md)** - 常用数据来源

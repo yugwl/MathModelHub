@@ -200,14 +200,20 @@ git pull origin main         # 获取最新代码
 #### 需要使用的工具
 
 ##### LaTeX环境配置
+
+> 📚 **详细教程**：查看 `templates/README.md` 获取完整的LaTeX配置和使用教程  
+> 📋 **速查表**：查看 `templates/LATEX_CHEATSHEET.md` 快速查找LaTeX命令
+
 ```bash
-# 方案1：在线编辑器（推荐新手）
+# 方案1：在线编辑器（推荐新手）⭐
 - Overleaf（https://overleaf.com）
   优点：免费、无需配置、实时预览、团队协作
+  模板位置：templates/latex/mcmthesis/
   
-# 方案2：本地环境
+# 方案2：本地环境（推荐熟手）
 - MacTeX（Mac）/ MiKTeX（Windows）
 - VSCode + LaTeX Workshop插件
+  详细配置见 templates/README.md
 ```
 
 ##### VSCode LaTeX配置
@@ -283,7 +289,7 @@ git pull origin main
 ```bash
 # Step 1: 安装Git
 # Mac: 已预装
-# Windows: 下载 https://git-scm.com
+# Windows: 下载 https://git-scm.com，自己网上搜教程
 
 # Step 2: 配置身份
 git config --global user.name "你的名字"
