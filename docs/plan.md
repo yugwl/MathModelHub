@@ -26,6 +26,7 @@
 
 4. [写作手必看视频](https://www.bilibili.com/video/BV1XM6mB9Evv?vd_source=2bd263d156b5aefbc227d1e67f86fcf4)
 
+5. [2025北理美赛经验分享第四部分_摘要写作](https://www.bilibili.com/video/BV1JJfYYLEp6?vd_source=2bd263d156b5aefbc227d1e67f86fcf4)
 ### 简而言之
 | 技能分类     | 主要内容                                                         |
 |------------|-------------------------------------------------------------------|
